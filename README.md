@@ -1,3 +1,9 @@
+# What is this?
+
+This is the source code to replicate the experiments provided in ``Efficient Sparse-Reward Goal-Conditioned Reinforcement Learning with a High Replay Ratio and Regularization.''
+
+[Demo video](https://drive.google.com/file/d/1UHd7JVPCwFLNFhy1QcycQfwU_nll_yII/view?usp=drive_link)
+
 # USAGE
 
 REDQ: 
